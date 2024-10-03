@@ -1,0 +1,2 @@
+BLEU & ROUGE-L & BERT
+19.9 & 50.2 & 77.2

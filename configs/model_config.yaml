@@ -1,0 +1,16 @@
+
+psychAiD:
+    model_id: 'psychAiD'
+    load:
+        config_dir: ""
+        lora_dir: ''
+        device: 'cuda'        
+        precision: 'fp16'
+    generation_config: 
+        max_new_tokens: 4096     
+        min_new_tokens: 1          
+        do_sample: True
+        temperature: 0.1
+        top_p: 0.75
+        top_k: 40
+        num_beams: 4 

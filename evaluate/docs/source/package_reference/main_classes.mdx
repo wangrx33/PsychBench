@@ -1,0 +1,33 @@
+# Main classes
+
+## EvaluationModuleInfo
+
+The base class `EvaluationModuleInfo` implements a the logic for the subclasses `MetricInfo`, `ComparisonInfo`, and `MeasurementInfo`.
+
+[[autodoc]] evaluate.EvaluationModuleInfo
+
+[[autodoc]] evaluate.MetricInfo
+
+[[autodoc]] evaluate.ComparisonInfo
+
+[[autodoc]] evaluate.MeasurementInfo
+
+## EvaluationModule
+
+The base class `EvaluationModule` implements a the logic for the subclasses `Metric`, `Comparison`, and `Measurement`.
+
+[[autodoc]] evaluate.EvaluationModule
+
+[[autodoc]] evaluate.Metric
+
+[[autodoc]] evaluate.Comparison
+
+[[autodoc]] evaluate.Measurement
+
+## CombinedEvaluations
+
+The `combine` function allows to combine multiple `EvaluationModule`s into a single `CombinedEvaluations`.
+
+[[autodoc]] evaluate.combine
+
+[[autodoc]] CombinedEvaluations

@@ -1,5 +1,5 @@
 # PsychBench
-
+Data will be released soon...
 
 ## ℹ️ How to evaluate your LLM
 

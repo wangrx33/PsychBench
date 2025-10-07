@@ -54,35 +54,7 @@
 		Admission Date: February 8, 2022."
 	}, 
 	{"from": "gpt", "value": 
-		"Chief Complaint: Disorganized speech and behavior, depressed mood, and somatic discomfort for over one month.
-
-		Case Characteristics:
-
-		Duration: Persistent course exceeding one month.
-
-		Symptomatology:
-
-		Depressed mood
-
-		Fatigue
-
-		Anhedonia (loss of interest)
-
-		Self-blame
-
-		Pessimistic thoughts
-
-		Anxiety
-
-		Somatic discomfort
-
-		Severity: Significant impairment in social functioning.
-
-		Exclusion Criteria:
-
-		No evidence of organic brain disease.
-
-		No substance-induced mental disorder."
+		"Sertraline,Quetiapine,Aripiprazole,Oxazepam."
 	}
 	]
 }

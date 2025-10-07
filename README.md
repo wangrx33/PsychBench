@@ -1,5 +1,7 @@
 # PsychBench
-Data will be released soon...
+Data from three clinical center can be found from /data.
+
+All data will be released progressively. 
 
 ## ℹ️ How to evaluate your LLM
 
@@ -46,13 +48,13 @@ In `workers/mymodel.py`:
         hf_tokenizer_config = {"pretrained_model_name_or_path": load_config['config_dir'], 'padding_side': 'left', 'trust_remote_code': True}
         precision = load_config.get('precision', 'fp16')
         device = load_config.get('device', 'cuda')
-
+   
         if precision == 'fp16':
             hf_model_config.update({"torch_dtype": torch.float16})
-
+   
         model = AutoModelForCausalLM.from_pretrained(**hf_model_config)
         tokenizer = AutoTokenizer.from_pretrained(**hf_tokenizer_config)
-
+   
         model.eval()
         return model, tokenizer # cpu
    ```
@@ -97,7 +99,7 @@ In `workers/mymodel.py`:
         '''
         return "问：{user}\n答：{gpt}\n" 
     ```
-</details>
+    </details>
 
 
 ### Modify /src/constants.py
@@ -181,5 +183,4 @@ Use jupyter notebook to extract and evaluate answers
 ```
 ./run_PsychBench.ipynb
 ```
-
 

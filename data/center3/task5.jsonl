@@ -1,0 +1,58 @@
+{"conversations": [
+	{"from": "human", "value": 
+		"2024-10-07 16:46 – Individual Psychotherapy Record
+		The patient reported a severely depressed mood, frequently questioning the purpose of living and engaging in repeated self-harm behaviors by cutting their hands. Over the past month, suicidal thoughts have intensified. Using Person-Centered Therapy, the therapist provided positive regard and respect, actively listened to the patient’s narrative, and, with an attitude of acceptance, equality, and respect, established a therapeutic relationship. Feedback was given on the issues raised, and a treatment plan was developed collaboratively with the patient.
+
+		2024-10-07 17:04 – EEG Therapy Record
+		Due to complaints of fatigue and dizziness, the patient was prescribed rehabilitative functional training. EEG therapy was initiated today, with a course of treatment scheduled once daily for ten sessions to improve cerebral blood circulation, alleviate dizziness, and improve poor sleep. The patient will be closely monitored.
+
+		2024-10-07 17:08 – Pre-Treatment Record for Transcranial Magnetic Stimulation (TMS)
+		The patient presented with insomnia and emotional instability. Vital signs were stable, and heart, lung, and abdominal examinations were unremarkable. The patient met the indications for TMS treatment and had no obvious contraindications. TMS therapy was initiated today to reduce stress responses, lower susceptibility to illness, and support recovery of physiological, psychological, and social functions. Magnetic signals penetrate the skull without attenuation to stimulate brain neurons and local cortical areas, ultimately restoring normal psychological functioning. The patient’s condition and any adverse reactions will be closely monitored during treatment.
+
+		2024-10-07 20:01 – Behavioral Correction Therapy and Recreational Training Record
+		The patient’s mood had slightly improved but lacked initiative, engaged minimally with others, and preferred isolation. Recreational training was introduced to increase activity and participation during hospitalization to promote recovery. Behavioral correction therapy was also provided to enhance daily living skills and rehabilitation, aiming to improve social functioning.
+
+		2024-10-08 14:36 – Psychological Assessment
+		Negative symptoms: Total score 74
+		Obsessive-compulsive symptoms: Total score 25
+		33-item Hypomania scale: Total score 13
+		Positive symptoms: Total score 41
+		Self-Rating Depression Scale: Total score 78
+		Self-Rating Anxiety Scale: Total score 80
+		Symptom Self-Rating Scale: Total score 378
+
+		2024-10-08 23:00
+		The patient complained of difficulty falling asleep but reported no other specific discomforts. A temporary prescription of Alprazolam 0.4 mg was given to aid sleep. The patient will be further observed.
+
+		2024-10-09 17:25 – Cupping Therapy Record
+		The patient complained of shoulder and back pain and tightness. This was considered to be due to invasion of wind-cold-damp pathogens obstructing meridians and impairing qi and blood flow. Bilateral bladder meridian cupping therapy was performed on the patient’s back to regulate qi, invigorate blood, dispel wind, and relieve symptoms. The patient was instructed to avoid bathing for 24 hours post-treatment, keep warm, and was advised that their condition would be closely monitored.
+
+		2024-10-11 20:50 – Auricular Acupressure and Acupoint Application Record
+		The patient presented with restlessness, anxiety, shallow sleep with frequent awakenings, fatigue, reduced speech, and poor appetite. Tongue: pale with thin white coating. Pulse: thready. Auricular points (Shenmen, Kidney, Heart, Liver) were treated once daily. Acupoint application at the Sanyinjiao (SP6) intersection of the Spleen Meridian was applied once every two days to harmonize yin and yang, calm the mind, promote sleep, and nourish the heart and mind. The course was planned for at least 10 sessions. The patient’s progress will be observed.
+
+		2024-10-12 13:17 – Day 5 of Hospitalization: Treatment Plan
+		Lithium Carbonate SR 0.3 g, twice daily
+		Oxazepam 7.5 mg, nightly
+		Risperidone 2 mg, nightly
+		Sertraline 150 mg, morning
+
+		The patient reported feeling “so-so” in the morning, with reduced pessimistic and negative thoughts. Emotional fluctuations were less pronounced, self-harm behaviors were less frequent, and auditory hallucinations had not occurred for the past two days. Occasional dizziness was noted. Nighttime sleep was acceptable; diet and bowel/bladder habits were normal. No other specific complaints.
+
+		Physical Examination: General condition acceptable, vital signs stable, no obvious positive findings on examination.
+
+		Mental Status Examination: Patient alert, fully oriented, and cooperative. Responses to questions were appropriate, but thought processes were slow. Previously elicited psychogenic verbal auditory hallucinations (self-reported absence for the past two days) and ideas of reference were noted. Mood depressed with occasional self-blame, guilt, and feelings of worthlessness. Recurrent pessimistic thoughts were less frequent. Emotional state relatively stable, affect congruent with inner experience and environment. Pathological willpower reduction, diminished interests, decreased energy, social withdrawal, poor concentration, slightly impaired immediate memory, and partial insight were observed.
+
+		Management Plan: Based on today’s assessment, the patient’s mood remains mildly depressed but denies current pessimistic thoughts. Sleep was acceptable. Sertraline was increased to 200 mg in the morning to improve mood. Other medications were maintained. The patient’s condition will be closely monitored."
+	}, 
+	{"from": "gpt", "value": 
+		"Question 1: On which day did the patient first report strong suicidal thoughts in the course of her treatment?
+		Answer 1: A. 2024-10-07
+
+		Question 2: On which day did the patient begin transcranial magnetic stimulation (TMS) therapy?
+		Answer 2: A. 2024-10-07
+
+		Question 3: On which day’s psychiatric examination was it recorded that “no auditory hallucinations occurred in the past two days”?
+		Answer 3: C. 2024-10-12"
+	}
+	]
+}

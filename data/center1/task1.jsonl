@@ -54,13 +54,22 @@
 		Admission Date: February 8, 2022."
 	}, 
 	{"from": "gpt", "value": 
-		"Sertraline - SSRI antidepressant for major depressive episode
+		"Chief Complaint:
+		Disorganized speech and behavior, poor mood accompanied by physical discomfort for over one month.
 
-		Quetiapine - Second-generation antipsychotic for psychotic features and mood stabilization
+		Case Characteristics:
 
-		Aripiprazole - Third-generation antipsychotic as adjunctive treatment for depression with psychotic features
+		Course Criteria: 
+		Continuous course for over one month.
 
-		Oxazepam - Short-acting benzodiazepine for anxiety management"
+		Symptom Criteria: 
+		Low mood, fatigue, loss of interest, self-blame, suicidal ideation, anxiety, and physical discomfort.
+
+		Severity Criteria: 
+		Severe impairment of social functioning.
+
+		Exclusion Criteria: 
+		Organic brain disease and mental disorders caused by psychoactive substances are provisionally excluded."
 	}
 	]
 }

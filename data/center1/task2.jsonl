@@ -54,9 +54,11 @@
 		Admission Date: February 8, 2022."
 	}, 
 	{"from": "gpt", "value": 
-		"Primary Diagnosis: ICD-10: F32.3 Major depressive episode with psychotic features
+		"Primary Diagnosis:
+		F32.3 - Major depressive episode with psychotic features
 
-		Psychiatric Comorbidity: Mild cognitive impairment"
+		Psychiatric Comorbidity: 
+		Mild cognitive impairment"
 	}
 	]
 }

@@ -1,5 +1,5 @@
 # PsychBench
-Data from three clinical center can be found from /data.
+Data of PsychBench can be found at huggingface: BMEr-ATP/PsychBench.
 
 All data will be released progressively. 
 
